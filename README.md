@@ -49,13 +49,12 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="StoryBook" **alt="StoryBook" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="StoryBook" **alt="StoryBook" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="Webstorm" **alt="Webstorm" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESlint" **alt="ESlint" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUi" **alt="MaterialUi" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>
 </div>
 
@@ -64,31 +63,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ### :fire: My Stats :
 <div markdown="2" align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jocker-py&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?gqtpe=DenverCoder1)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocker-py&hide=python&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gqtpe-py&hide=python&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-### :fire: My Projects from RS School:
-
-Stage#0
-* [Portfolio](https://jocker-py.github.io/projects-stage0/portfolio/)
-* [Image-Gallery](https://jocker-py.github.io/projects-stage0/image-galery/)
-* [Memory-Game](https://jocker-py.github.io/projects-stage0/memory-game/)
----
-Stage#1
-* [Shelter](https://jocker-py.github.io/Shelter/main/)
-* [Virtual-Keyboard](https://jocker-py.github.io/Virtual-keyboard/)
-* [CSS-Mem-Slider](https://jocker-py.github.io/cssMemSlider/cssMemSlider/)
----
-Stage#2
-* [NewsAPI](https://jocker-py.github.io/newsAPI/index.html)
-* [Online-Store](https://jocker-py-online-store.netlify.app/)
-* [Async-Race](https://github.com/jocker-py/Async-Race)
----
-Team-Work
-* [RS-Lang](https://rslang-team24-saintsanta-skylang.netlify.app/)
---- 
-React
-
-* [In Progress]()
