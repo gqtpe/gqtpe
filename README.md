@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <h2>
-    <img src="https://www.codewars.com/users/jocker-py(https://www.codewars.com/users/gqtpe)/badges/large" alt="Codewars Badge"/>
+    <img src="https://www.codewars.com/users/gqtpe/badges/large" alt="Codewars Badge"/>
   </h2>
   <h1>
   Hey there
