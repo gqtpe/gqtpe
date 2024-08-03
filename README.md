@@ -60,10 +60,43 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ---
 
+## About Me
+
+Hello! I'm [Your Name], a passionate front-end developer with a strong background in building dynamic and responsive web applications. I specialize in using modern JavaScript frameworks and libraries, particularly React and TypeScript, to create seamless user experiences. 
+
+### Technical Skills
+
+- **Languages:** JavaScript, TypeScript, HTML, CSS
+- **Frameworks & Libraries:** React, Redux, Thunk, Express.js
+- **Tools & Platforms:** Git, npm, Webpack, Babel
+- **Other Technologies:** RESTful APIs, GraphQL, Node.js, Express, Jest, Enzyme
+
+### Development Practices
+
+- **State Management:** Proficient in managing state with Redux, using selectors and `useActions` for efficient and clean code.
+- **Asynchronous Actions:** Experienced with Thunk for handling asynchronous operations within Redux.
+- **Environment Management:** Utilizing `dotenv` for secure and flexible configuration management.
+- **Version Control:** Adept with Git for version control, ensuring smooth collaboration and code history tracking.
+
+### Projects
+
+- **[todolist](#):** Brief description of what this project is about and the technologies used.
+- **[social-network](#):** Brief description of what this project is about and the technologies used.
+- **[spotify-clone](#):** Brief description of what this project is about and the technologies used.
+
+### Contact
+
+- **Email:** your.email@example.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+
+I am always eager to learn new technologies and improve my skills. Feel free to reach out if you have any questions, suggestions, or collaboration ideas!
+
+
 ### :fire: My Stats :
 <div markdown="2" align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gqtpe)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gqtpe-py&hide=python&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gqtpe&hide=python&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
