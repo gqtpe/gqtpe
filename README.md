@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges" align="center">
+<h2 id="badges" align="center">
   <a href="https://www.linkedin.com/in/#todo">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -11,9 +11,10 @@
   <a href="https://t.me/gqtpe">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <h2>
+  <div>
     <img src="https://www.codewars.com/users/gqtpe/badges/large" alt="Codewars Badge"/>
-  </h2>
+  </div>
+</h2>
   <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -24,9 +25,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
----
 
-### :man_technologist: About Me :
+## :man_technologist: About Me :
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
 
 - :telescope: I'm studying Front End Developer at It-incubator how to create a frontend for building web applications.
@@ -37,9 +37,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-temirtas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/#todo)
 
----
-
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div markdown="1" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -58,37 +56,29 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>
 </div>
 
----
 
-## About Me
+## Projects
+- **[todolist](https://github.com/gqtpe/trello):** Todolist is a pet project for task management, created using modern web technologies. This project allows for convenient task management and supports user authorization.
+- **[social-network](https://github.com/gqtpe/socila):** A social network application built with React and Redux, featuring user authentication, profile management, and personalized settings. This project is connected to the [SamuraiJS API](https://social-network.samuraijs.com/) for data handling.
+- **[spotify](https://github.com/gqtpe/spotify-clone):** A Spotify clone built with Next.js, offering a similar user experience to the original Spotify platform. This project integrates with the Spotify Web API to provide music streaming, playlists, and user interaction features.
 
-Hello! I'm [Your Name], a passionate front-end developer with a strong background in building dynamic and responsive web applications. I specialize in using modern JavaScript frameworks and libraries, particularly React and TypeScript, to create seamless user experiences. 
-
-### Technical Skills
+## Technical Skills
 
 - **Languages:** JavaScript, TypeScript, HTML, CSS
 - **Frameworks & Libraries:** React, Redux, Thunk, Express.js
 - **Tools & Platforms:** Git, npm, Webpack, Babel
 - **Other Technologies:** RESTful APIs, GraphQL, Node.js, Express, Jest, Enzyme
 
-### Development Practices
+## Development Practices
 
 - **State Management:** Proficient in managing state with Redux, using selectors and `useActions` for efficient and clean code.
 - **Asynchronous Actions:** Experienced with Thunk for handling asynchronous operations within Redux.
 - **Environment Management:** Utilizing `dotenv` for secure and flexible configuration management.
 - **Version Control:** Adept with Git for version control, ensuring smooth collaboration and code history tracking.
 
-### Projects
+---
 
-- **[todolist](https://github.com/gqtpe/trello):** Brief description of what this project is about and the technologies used.
-- **[social-network](https://github.com/gqtpe/socila):** Brief description of what this project is about and the technologies used.
-- **[spotify](https://github.com/gqtpe/spotify-clone):** Brief description of what this project is about and the technologies used.
 
-### Contact
-
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
 
 I am always eager to learn new technologies and improve my skills. Feel free to reach out if you have any questions, suggestions, or collaboration ideas!
 
