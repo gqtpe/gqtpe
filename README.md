@@ -35,7 +35,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I solve problems on CodeWars.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-buladzislau-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/#todo)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-temirtas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/#todo)
 
 ---
 
