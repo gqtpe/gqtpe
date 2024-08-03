@@ -80,9 +80,9 @@ Hello! I'm [Your Name], a passionate front-end developer with a strong backgroun
 
 ### Projects
 
-- **[todolist](#):** Brief description of what this project is about and the technologies used.
-- **[social-network](#):** Brief description of what this project is about and the technologies used.
-- **[spotify-clone](#):** Brief description of what this project is about and the technologies used.
+- **[todolist](https://github.com/gqtpe/trello):** Brief description of what this project is about and the technologies used.
+- **[social-network](https://github.com/gqtpe/socila):** Brief description of what this project is about and the technologies used.
+- **[spotify]([#](https://github.com/gqtpe/spotify-clone)):** Brief description of what this project is about and the technologies used.
 
 ### Contact
 
