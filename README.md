@@ -60,7 +60,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ## Projects
 - **[todolist](https://github.com/gqtpe/trello):** Todolist is a pet project for task management, created using modern web technologies. This project allows for convenient task management and supports user authorization.
 - **[social-network](https://github.com/gqtpe/socila):** A social network application built with React and Redux, featuring user authentication, profile management, and personalized settings. This project is connected to the [SamuraiJS API](https://social-network.samuraijs.com/) for data handling.
-- **[spotify](https://github.com/gqtpe/spotify-clone):** A Spotify clone built with Next.js, offering a similar user experience to the original Spotify platform. This project integrates with the Spotify Web API to provide music streaming, playlists, and user interaction features.
+- **[spotify](https://github.com/gqtpe/spotify):** A Spotify clone built with Next.js, offering a similar user experience to the original Spotify platform. This project integrates with the Spotify Web API to provide music streaming, playlists, and user interaction features.
 
 ## Technical Skills
 
