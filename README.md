@@ -56,7 +56,6 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" **alt="Vite" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodeJS" **alt="nodeJS" width="40" height="40"/>
-
     <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="SocketIO" **alt="nodeJS" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NEXT" **alt="nodeJS" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" **alt="Vue" width="40" height="40"/>
