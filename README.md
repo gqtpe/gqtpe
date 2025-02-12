@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h2 id="badges" align="center">
-  <a href="https://www.linkedin.com/in/#todo">
+  <a href="https://www.linkedin.com/in/temirtas-nursayyn-4090a0350">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:work.temirtas@gmail.com">
@@ -65,8 +65,9 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ## Projects
 - **[todolist](https://github.com/gqtpe/trello):** Todolist is a pet project for task management, created using modern web technologies. This project allows for convenient task management and supports user authorization.
-- **[social-network](https://github.com/gqtpe/socila):** A social network application built with React and Redux, featuring user authentication, profile management, and personalized settings. This project is connected to the [SamuraiJS API](https://social-network.samuraijs.com/) for data handling.
 - **[spotify](https://github.com/gqtpe/spotify):** A Spotify clone built with Next.js, offering a similar user experience to the original Spotify platform. This project integrates with the Spotify Web API to provide music streaming, playlists, and user interaction features.
+- **[social-network](https://github.com/gqtpe/socila):** A social network application built with React and Redux, featuring user authentication, profile management, and personalized settings. This project is connected to the [SamuraiJS API](https://social-network.samuraijs.com/) for data handling.
+
 
 ## Technical Skills
 
@@ -90,9 +91,9 @@ I am always eager to learn new technologies and improve my skills. Feel free to 
 
 
 ### :fire: My Stats :
-<div markdown="2" align="center">
-
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gqtpe&hide=python&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gqtpe)](https://git.io/streak-stats)
 </div>
 
 ### 📓 Demo :
