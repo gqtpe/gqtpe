@@ -91,16 +91,15 @@ I am always eager to learn new technologies and improve my skills. Feel free to 
 
 
 ### :fire: My Stats :
-<p align="center">
+<div align="center">
+  <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gqtpe&hide=python&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
   </a>
+  </div>
+  <div>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=gqtpe" alt="GitHub Streak" />
   </a>
-</p>
-
-### 📓 Demo :
-[![Trello](https://github-readme-stats.vercel.app/api/pin/?username=gqtpe&repo=trello)](https://github.com/gqtpe/trello)
-[![Spotify Clone](https://github-readme-stats.vercel.app/api/pin/?username=gqtpe&repo=spotify)](https://github.com/gqtpe/spotify)
-[![sn](https://github-readme-stats.vercel.app/api/pin/?username=gqtpe&repo=socila)](https://github.com/gqtpe/socila)
+  </div>
+</div>
