@@ -14,8 +14,10 @@
   <a href="https://gqtpe-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Website-green?style=for-the-badge" alt="Website"/>
   </a>
-  <div>
+  <div >
+    <a href="https://www.codewars.com/users/gqtpe">
     <img src="https://www.codewars.com/users/gqtpe/badges/large" alt="Codewars Badge"/>
+    </a>
   </div>
 </h2>
   <h1>
