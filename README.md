@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h2 id="badges" align="center">
-  <a href="https://www.linkedin.com/in/temirtas-nursayyn-4090a0350">
+  <a href="https://www.linkedin.com/in/temirtas-nursain">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:work.temirtas@gmail.com">
