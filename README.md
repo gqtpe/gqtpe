@@ -71,10 +71,10 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ## Technical Skills
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS
-- **Frameworks & Libraries:** React, Redux, Thunk, Express.js
-- **Tools & Platforms:** Git, npm, Webpack, Babel
-- **Other Technologies:** RESTful APIs, GraphQL, Node.js, Express, Jest, Enzyme
+- **Languages:** JavaScript, TypeScript, HTML, CSS, SCSS, 
+- **Frameworks & Libraries:** React, Redux, Thunk, Vite, Vue, Storybook, Express, Next, 
+- **Tools & Platforms:** Git, npm, Webpack, Postman , ESLint
+- **Other Technologies:** RESTful APIs, GraphQL, Node.js, Express, Jest, Storybook, Open Auth
 
 ## Development Practices
 
